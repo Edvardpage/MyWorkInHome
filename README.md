@@ -1,1 +1,1 @@
-# mySky
+# mySky-junior
